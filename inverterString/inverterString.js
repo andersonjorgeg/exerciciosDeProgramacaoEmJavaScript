@@ -1,3 +1,10 @@
+/**
+ * Função Inverter String
+ *
+ * @param {string} string - A string que será invertida.
+ * @returns {string} A string invertida.
+ */
+
 function inverterString(string) {
   let stringInvertida = ""
 

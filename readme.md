@@ -7,7 +7,15 @@ Este repositório contém uma coleção de exercícios de programação resolvid
 O repositório está organizado da seguinte forma:
 
 - Cada exercício possui uma pasta com o nome descritivo do exercício.
-- Cada pasta contém um arquivo JavaScript com a solução do exercício e um arquivo README.md com a descrição do exercício, a abstração da solução e exemplos de entrada e saída.
+- Cada pasta contém:
+  - Arquivo JavaScript com:
+    - Solução do exercício
+    - Padrão de documentação do JSDoc, que permite fornecer informações detalhadas sobre a função, seus parâmetros, tipo de retorno e exemplos de uso.
+  - Arquivo README.md com: 
+    - Descrição do exercício
+    - Abstração da solução
+    - Exemplos de entrada e saída
+    - Exemplos de uso na vida real.
 
 ## Como Usar
 

@@ -26,3 +26,13 @@ Saída: 1
 
 Entrada: `[]` <br>
 Saída: A lista está vazia
+
+**Exemplo de uso na vida real:**
+
+A função `maiorElemento` pode ser útil em várias situações do mundo real. Aqui estão alguns exemplos:
+
+1. Em uma aplicação de análise financeira, você pode usar essa função para encontrar o maior valor em uma lista de preços de ações ao longo de um período de tempo. Isso pode ajudar a identificar o preço mais alto alcançado por uma ação e auxiliar na tomada de decisões de investimento.
+
+2. Em um sistema de gerenciamento de estoque, a função pode ser usada para determinar o produto mais vendido com base nas quantidades vendidas registradas em uma lista. Isso pode ser útil para identificar os itens mais populares e auxiliar no planejamento de reposição de estoque.
+
+3. Em um aplicativo de classificação de filmes, a função pode ser aplicada para encontrar o filme com a maior avaliação em uma lista de avaliações de usuários. Isso pode ajudar a destacar os filmes mais bem avaliados e fornecer recomendações aos usuários.

@@ -1,6 +1,6 @@
 # Exercício Inverter String
 
-**Nome do arquivo semântico:** inverterString.js
+**Nome do arquivo semântico:** `inverterString.js`
 
 **Descrição:** Escreva uma função chamada `inverterString` que recebe uma string como entrada e retorna a string invertida.
 
@@ -28,3 +28,14 @@ Saída: ""
 
 Entrada: "a" <br>
 Saída: "a"
+
+**Exemplo de uso na vida real:**
+
+A função `inverterString` pode ser útil em várias situações da vida real, como:
+
+1. Em sistemas de criptografia e segurança, onde é necessário inverter sequências de caracteres para garantir a confidencialidade dos dados.
+2. Em aplicações de processamento de texto, onde é necessário manipular e transformar strings de várias formas.
+3. Em jogos ou aplicativos que envolvem palavras cruzadas ou quebra-cabeças, onde a inversão de palavras ou frases pode ser um desafio para o jogador.
+4. Na área de análise de dados, para inverter sequências de caracteres em algoritmos de processamento ou visualização de informações.
+
+Esses são apenas alguns exemplos de como a função `inverterString` pode ser aplicada em situações reais, demonstrando a sua versatilidade e utilidade no desenvolvimento de software.

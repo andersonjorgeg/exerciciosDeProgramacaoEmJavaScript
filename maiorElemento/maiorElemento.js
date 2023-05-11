@@ -1,3 +1,9 @@
+/**
+ * Função para encontrar o maior elemento em uma lista de números.
+ * @param {Array} array - A lista de números.
+ * @returns {number|string} - O maior elemento da lista ou uma mensagem indicando que a lista está vazia.
+ */
+
 function maiorElemento(array) {
 
   if (array.length === 0) {
