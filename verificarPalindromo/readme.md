@@ -18,6 +18,7 @@ Escreva uma função chamada `verificarPalindromo` que recebe uma string como en
    - Se as duas strings forem iguais, retornar `true`, indicando que é um palíndromo. Caso contrário, retornar `false`.
 
 ## Exemplo de entrada e saída
+<pre>
 Entrada: "Ana"
 Saída: `true`
 
@@ -35,6 +36,7 @@ Saída: `true`
 
 Entrada: "Hello, World!"
 Saída: `false`
+</pre>
 
 ## Exemplos de uso na vida real
 - Verificação de palíndromos em jogos de palavras e quebra-cabeças.

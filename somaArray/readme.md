@@ -14,17 +14,19 @@
 
 **Exemplo de entrada e saída:**
 
-Entrada: `[1, 2, 3, 4, 5]` <br>
+<pre>
+Entrada: `[1, 2, 3, 4, 5]`
 Saída: 15
 
-Entrada: `[10, 20, 30]` <br>
+Entrada: `[10, 20, 30]`
 Saída: 60
 
-Entrada: `[-1, 0, 1]` <br>
+Entrada: `[-1, 0, 1]`
 Saída: 0
 
-Entrada: `[]` <br>
+Entrada: `[]`
 Saída: 0
+</pre>
 
 **Exemplos de uso na vida real:**
 

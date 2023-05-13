@@ -29,6 +29,7 @@ Escreva uma função chamada `validarCPF` que recebe um CPF (Cadastro de Pessoa 
 
 ## Exemplo de entrada e saída
 
+<pre>
 Entrada: "529.982.247-25"
 Saída: `true`
 
@@ -55,7 +56,7 @@ Saída: `false`
 
 Entrada: "111.222.333-96"
 Saída: `true`
-
+</pre>
 ## Exemplos de uso na vida real
 
 - Validação de CPF em cadastros de usuários em sistemas de autenticação.

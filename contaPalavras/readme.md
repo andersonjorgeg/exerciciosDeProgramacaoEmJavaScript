@@ -15,6 +15,7 @@
 
 **Exemplo de entrada e saída:**
 
+<pre>
 Entrada: "Olá, mundo!"
 Saída: 2
 
@@ -29,6 +30,7 @@ Saída: 0
 
 Entrada: " "
 Saída: 0
+</pre>
 
 **Exemplo de uso na vida real:**
 

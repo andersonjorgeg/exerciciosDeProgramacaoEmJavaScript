@@ -14,17 +14,19 @@
 
 **Exemplo de entrada e saída:**
 
-Entrada: [1, 2, 3, 4, 5] <br>
+<pre>
+Entrada: [1, 2, 3, 4, 5] 
 Saída: 3.0
 
-Entrada: [10, 20, 30] <br>
+Entrada: [10, 20, 30] 
 Saída: 20.0
 
-Entrada: [-1, 0, 1] <br>
+Entrada: [-1, 0, 1] 
 Saída: 0.0
 
-Entrada: [] <br>
+Entrada: [] 
 Saída: 0.0
+</pre>
 
 **Exemplos de uso na vida real:**
 
@@ -34,4 +36,4 @@ Saída: 0.0
 
 3. Acompanhamento de métricas de saúde: Em aplicativos de saúde e bem-estar, a função `mediaArray` pode ser usada para calcular a média de dados como batimentos cardíacos diários, níveis de atividade física semanal ou quantidade de horas de sono por noite. Essas métricas podem ser úteis para monitorar a saúde e estabelecer metas para melhorar o bem-estar geral.
 
-4. Avaliação de desempenho esportivo: Em análises esportivas, a função `mediaArray` pode ser empregada para calcular a média de estatísticas de desempenho de atletas, como pontos por jogo, rebotes por partida, precisão de arremessos, entre outros. Essas médias ajudam a avaliar o desempenho individual e coletivo dos jogadores, auxiliando treinadores e equipes a tomar decisões estratégicas para melhorar o rendimento.
+4 Avaliação de desempenho esportivo: Em análises esportivas, a função `mediaArray` pode ser empregada para calcular a média de estatísticas de desempenho de atletas, como pontos por jogo, rebotes por partida, precisão de arremessos, entre outros. Essas médias ajudam a avaliar o desempenho individual e coletivo dos jogadores, auxiliando treinadores e equipes a tomar decisões estratégicas para melhorar o rendimento.

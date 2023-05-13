@@ -15,17 +15,19 @@
 
 **Exemplo de entrada e saída:**
 
-Entrada: `[1, 2, 3, 4, 5]` <br>
+<pre>
+Entrada: `[1, 2, 3, 4, 5]`
 Saída: 5
 
-Entrada: `[10, 20, 30]` <br>
+Entrada: `[10, 20, 30]`
 Saída: 30
 
-Entrada: `[-1, 0, 1]` <br>
+Entrada: `[-1, 0, 1]`
 Saída: 1
 
-Entrada: `[]` <br>
+Entrada: `[]`
 Saída: A lista está vazia
+</pre>
 
 **Exemplo de uso na vida real:**
 
@@ -35,4 +37,4 @@ A função `maiorElemento` pode ser útil em várias situações do mundo real. 
 
 2. Em um sistema de gerenciamento de estoque, a função pode ser usada para determinar o produto mais vendido com base nas quantidades vendidas registradas em uma lista. Isso pode ser útil para identificar os itens mais populares e auxiliar no planejamento de reposição de estoque.
 
-3. Em um aplicativo de classificação de filmes, a função pode ser aplicada para encontrar o filme com a maior avaliação em uma lista de avaliações de usuários. Isso pode ajudar a destacar os filmes mais bem avaliados e fornecer recomendações aos usuários.
+ Em um aplicativo de classificação de filmes, a função pode ser aplicada para encontrar o filme com a maior avaliação em uma lista de avaliações de usuários. Isso pode ajudar a destacar os filmes mais bem avaliados e fornecer recomendações aos usuários.

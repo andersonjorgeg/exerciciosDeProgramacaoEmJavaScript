@@ -13,21 +13,22 @@
 5. Retornar a string invertida.
 
 **Exemplo de entrada e saída:**
-
-Entrada: "Hello, World!" <br>
+<pre>
+Entrada: "Hello, World!"
 Saída: "!dlroW ,olleH"
 
-Entrada: "OpenAI is amazing" <br>
+Entrada: "OpenAI is amazing"
 Saída: "gnizama si IAnepO"
 
-Entrada: "12345" <br>
+Entrada: "12345"
 Saída: "54321"
 
-Entrada: "" <br>
+Entrada: ""
 Saída: ""
 
-Entrada: "a" <br>
+Entrada: "a"
 Saída: "a"
+</pre>
 
 **Exemplo de uso na vida real:**
 
